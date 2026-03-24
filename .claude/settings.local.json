@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(printf \"yes\\\\nyes\\\\n\")",
-      "Bash(yes)"
-    ]
-  }
-}
